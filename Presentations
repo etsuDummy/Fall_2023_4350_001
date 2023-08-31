@@ -8,14 +8,14 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 
 Lifecycle Models and Process
-1.	Kanban (Software Development)	- 
+1.	Kanban (Software Development)	- Ben Smith
 2.	Crystal (Software Development)	- 
 3.	Team Software Process and Personal Software Process - 
 4.a.	Build Automation - 
 4.b. 	CI/CD Pipeline - 
 
 Project Management and Professional Practice
-5.	Risk Management		        
+5.	Risk Management		        - Kincaid Young
 6.	Software Complexity Metrics	-
 7.	Formal Methods			- 
 8.	Cleanroom Software Engineering - 
@@ -24,9 +24,9 @@ Project Management and Professional Practice
 
 Software Architectures and Tools
 11.	Service-Oriented Architecture - 
-12.	Infrastructure as a Service	-
+12.	Infrastructure as a Service	- Kincaid Young
 13.	Platform as a Service	- 
-14.	Docker  - 
+14.	Docker  - Maxwell Key, Ben Smith
 15.	Ansible - 
 16.	Jenkins	- 
 17.	Splunk (for DevOps) - 
@@ -40,6 +40,6 @@ Development Paradigms and Testing
 23.	Dependency Injection - 
 
 AI in SE
-24. AI for code completion - 
+24. AI for code completion - Elisha Glass
 25. AI for code creation (where the AI writes all the code) - Caleb Hammond
-26. AI for code analysis - 
+26. AI for code analysis - Elisha Glass
