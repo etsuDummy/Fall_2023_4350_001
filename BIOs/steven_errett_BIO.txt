@@ -1,0 +1,14 @@
+Steven Errett
+
+Languages:
+Proficient in:
+	C#, Java, HTML5, CSS, SQL, Linux/Bash
+Familiar With:
+	C, Python
+Skills:
+	Helped build a website
+	Proficient in database design/SQL
+	Error Checking/Testing
+	Some automation
+	Scripting
+	
