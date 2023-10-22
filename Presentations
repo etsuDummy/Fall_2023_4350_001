@@ -8,7 +8,7 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 
 Lifecycle Models and Process
-1.	Kanban (Software Development)	- Ben Smith, Chris Fraser
+1.	Kanban (Software Development)	- Ben Smith (https://youtu.be/L7hmpwvsZJE), Chris Fraser
 2.	Crystal (Software Development)	- Gabriel Ramos
 3.	Team Software Process and Personal Software Process - Kinslee Hammonds
 4.a.	Build Automation - Jesse Arnold, Marisa Oliver ( https://youtu.be/SfePiksb5FA DONE )
@@ -19,16 +19,16 @@ Project Management and Professional Practice
 5.	Risk Management		        - Kincaid Young (https://youtu.be/pRAMCmoVHkY) , Kinslee Hammonds & Brittany Calixto (https://youtu.be/Ti9k2aRYd_I DONE)
 6.	Software Complexity Metrics	-
 7.	Formal Methods			- 
-8.	Cleanroom Software Engineering - Jesse Arnold
-9.	Microsoft Project - Caleb Hammond, Jake Eggleston
-10.	Software Engineering Licensing - Matthew Lockard
-
+8.	Cleanroom Software Engineering - Jesse Arnold ( https://youtu.be/Qa-bLjqzBlc )
+9.	Microsoft Project - Caleb Hammond(https://youtu.be/fMhoytT9XIc), Jake Eggleston
+10.	Software Engineering Licensing - Matthew Lockard (https://www.youtube.com/watch?v=mShXk4wYWdM)
+ 
 Software Architectures and Tools
-11.	Service-Oriented Architecture - Gabriel Ramos
+11.	Service-Oriented Architecture - Gabriel Ramos (https://youtu.be/9t1-RwG4PO4)
 12.	Infrastructure as a Service	- Kincaid Young, Elainna Peay (https://youtu.be/y80ztmYJryc)
 13.	Platform as a Service	- 
 14.	Docker  - Maxwell Key (https://youtu.be/wqiw3PrM1iY), Ben Smith
-15.	Ansible - Steven Errett, Gutu Ahmed 
+15.	Ansible - Steven Errett, Gutu Ahmed (https://youtu.be/w2yfL1o9jvo ) 
 https://youtu.be/K8TzUdFFzWI (done) Steven 
 16.	Jenkins	- Michael Ng (https://youtu.be/ZeBwvD4kRks), Megan Toth
 17.	Splunk (for DevOps) - Brittany Calixto
@@ -43,5 +43,5 @@ Development Paradigms and Testing
 
 AI in SE
 24. AI for code completion - Elisha Glass
-25. AI for code creation (where the AI writes all the code) - Caleb Hammond, Chris Fraser
+25. AI for code creation (where the AI writes all the code) - Caleb Hammond, Chris Fraser (https://www.youtube.com/watch?v=IoLezifo2nU)
 26. AI for code analysis - Matthew Lockard, Marisa Oliver
