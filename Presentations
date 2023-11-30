@@ -4,44 +4,51 @@ You can only choose at most one topic from a category (e.g. you can't do Kanban 
 Put your Name (first and last) next to the topic you choose. 
 No more than 2 students can choose the same topic. 
 You can not remove someone's name from a topic. If you want it and it already has 2 students associated with it, then
-you can team up with someone and co-present: if you do team up, the presentation must be 15-20 minutes in length and each person must do ~50% of the presentation
+you can team up with someone and co-present: if you do team up, the presentation must be 15-20 minutes in length and each person must do ~50% of the presentation.
+Remember to cite your sources.
+Do some research on how to do great presentations: e.g. https://alum.mit.edu/sites/default/files/2018-06/POWERPOINT%20BEST%20PRACTICES_1.pdf 
+
 
 
 Lifecycle Models and Process
-1.	Kanban (Software Development)	- Ben Smith (https://youtu.be/L7hmpwvsZJE), Chris Fraser
+1.	Kanban (Software Development)	- Ben Smith (https://youtu.be/L7hmpwvsZJE DONEWCK), Chris Fraser (https://youtu.be/2qZRjw9CQ2w)
 2.	Crystal (Software Development)	- Gabriel Ramos
-3.	Team Software Process and Personal Software Process - Kinslee Hammonds
-4.a.	Build Automation - Jesse Arnold, Marisa Oliver ( https://youtu.be/SfePiksb5FA DONE )
+3.	Team Software Process and Personal Software Process - Kinslee Hammonds (https://youtu.be/VgJpsxJei5I DONE)
+4.a.	Build Automation - Jesse Arnold, Marisa Oliver ( https://youtu.be/SfePiksb5FA DONEWCK ) Jesse's Vid:(https://youtu.be/pa0RrpINh00)
 4.b. 	CI/CD Pipeline - Alec Fitzgerald
-5.  Source Control - Elisha Glass ( https://youtu.be/rEPASm4dTZ0 DONE)
+5.  Source Control - Elisha Glass ( https://youtu.be/rEPASm4dTZ0 DONEWCK)
 
 Project Management and Professional Practice
-5.	Risk Management		        - Kincaid Young (https://youtu.be/pRAMCmoVHkY) , Kinslee Hammonds & Brittany Calixto (https://youtu.be/Ti9k2aRYd_I DONE)
+5.	Risk Management		        - Kincaid Young (https://youtu.be/pRAMCmoVHkY Done) , Kinslee Hammonds & Brittany Calixto (https://youtu.be/Ti9k2aRYd_I DONEWCK)
 6.	Software Complexity Metrics	-
 7.	Formal Methods			- 
-8.	Cleanroom Software Engineering - Jesse Arnold ( https://youtu.be/Qa-bLjqzBlc )
-9.	Microsoft Project - Caleb Hammond(https://youtu.be/fMhoytT9XIc), Jake Eggleston
-10.	Software Engineering Licensing - Matthew Lockard (https://www.youtube.com/watch?v=mShXk4wYWdM)
+8.	Cleanroom Software Engineering - Jesse Arnold ( https://youtu.be/Qa-bLjqzBlc DONEWCK )
+9.	Microsoft Project - Caleb Hammond(https://youtu.be/fMhoytT9XIc DONEWCK), Jake Eggleston (https://www.youtube.com/watch?v=Hvt6zcWV4Ts)_ DONEWCK
+10.	Software Engineering Licensing - Matthew Lockard (https://www.youtube.com/watch?v=mShXk4wYWdM DONEWCK)
  
 Software Architectures and Tools
-11.	Service-Oriented Architecture - Gabriel Ramos (https://youtu.be/9t1-RwG4PO4)
-12.	Infrastructure as a Service	- Kincaid Young, Elainna Peay (https://youtu.be/y80ztmYJryc)
+11.	Service-Oriented Architecture - Gabriel Ramos (https://youtu.be/9t1-RwG4PO4 DONEWCK)
+12.	Infrastructure as a Service	- Kincaid Young (https://youtu.be/UHc7Njqwpb4), Elainna Peay (https://youtu.be/y80ztmYJryc DONEWCK) 
 13.	Platform as a Service	- 
-14.	Docker  - Maxwell Key (https://youtu.be/wqiw3PrM1iY), Ben Smith
-15.	Ansible - Steven Errett, Gutu Ahmed (https://youtu.be/w2yfL1o9jvo ) 
+14.	Docker  - Maxwell Key (https://youtu.be/wqiw3PrM1iY DONEWCK), Ben Smith (https://youtu.be/Oz2vgEZaEK0)
+15.	Ansible - Steven Errett, Gutu Ahmed (https://youtu.be/w2yfL1o9jvo DONEWCK) 
 https://youtu.be/K8TzUdFFzWI (done) Steven 
-16.	Jenkins	- Michael Ng (https://youtu.be/ZeBwvD4kRks), Megan Toth
-17.	Splunk (for DevOps) - Brittany Calixto
-18.	Selenium - Jake Eggleston (https://youtu.be/4mpW9qHkB6o : Done), Khanh Pham
-19.	AppDynamics - Alec Fitzgerald
+
+**Creating Ubuntu Server With AWS - Maxwell Key (https://www.youtube.com/watch?v=i_xMj4MOoVE)
+
+16.	Jenkins	- Michael Ng (https://youtu.be/ZeBwvD4kRks DONEWCK), Megan Toth (https://youtu.be/nqiinPOckqY)
+17.	Splunk (for DevOps) - Brittany Calixto (https://youtu.be/SSihhwHIGDY)
+18.	Selenium - Jake Eggleston (https://youtu.be/4mpW9qHkB6o : DONEWCK), Khanh Pham https://www.youtube.com/watch?v=EhOUnaJADEE
+19.	AppDynamics - Alec Fitzgerald https://www.youtube.com/watch?v=tJYHycTw0N4 (DONEWCK)
 
 Development Paradigms and Testing
-20.	Test-Driven Development - Michael Ng (https://youtu.be/kyXivKJOq6I), Megan Toth (https://youtu.be/j_ktD0VeM_M Done)
-21.	Behavior Driven Development - Khanh Pham, Gutu Ahmed
-22.	Feature Driven Development - Elainna Peay
+20.	Test-Driven Development - Michael Ng (https://youtu.be/kyXivKJOq6I DONEWCK), Megan Toth (https://youtu.be/j_ktD0VeM_M DONEWCK)
+21.	Behavior Driven Development - Khanh Pham (https://youtu.be/8QQ9zDAjacg DONEWCK), Gutu Ahmed (https://youtu.be/o11MamyeO_s DONE)
+22.	Feature Driven Development - Elainna Peay https://youtu.be/_u_YORGy_IM
 23.	Dependency Injection - Steven Errett
+    https://youtu.be/MNjtVGPFw6A - Finished
 
 AI in SE
-24. AI for code completion - Elisha Glass
-25. AI for code creation (where the AI writes all the code) - Caleb Hammond, Chris Fraser (https://www.youtube.com/watch?v=IoLezifo2nU)
-26. AI for code analysis - Matthew Lockard (https://www.youtube.com/watch?v=b7x0roGII84), Marisa Oliver
+24. AI for code completion - Elisha Glass ( https://youtu.be/HBDp-6iOQOI )
+25. AI for code creation (where the AI writes all the code) - Caleb Hammond (https://youtu.be/5izB1g_mWwo), Chris Fraser (https://www.youtube.com/watch?v=IoLezifo2nU DONEWCK
+26. AI for code analysis - Matthew Lockard (https://www.youtube.com/watch?v=b7x0roGII84), Marisa Oliver (https://www.youtube.com/watch?v=EH29KIo4EG8 (DONEWCK))
